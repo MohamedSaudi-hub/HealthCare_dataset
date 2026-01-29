@@ -1,7 +1,3 @@
-# HealthCare_dataset
-
-Health Care data
-
 # Healthcare Data Analysis & Operational Metrics
 
 ## Project Overview
